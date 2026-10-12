@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Aurora Writes 👋
 
-<!--
-**aurorawrites189-eng/aurorawrites189-eng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build free, multilingual reading & writing platforms.
 
-Here are some ideas to get you started:
+## 🌟 My project: [NazmHub](https://nazmhub.pages.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**NazmHub** — Write. Read. Belong. A free community platform for stories, articles and essays in **Urdu + English**:
+
+- 📚 Kids' story library (new stories daily)
+- 📖 Episode-wise novel serials for teens
+- ✍️ Writers can publish their own series
+- 🆓 100% free, no paywall
+
+🔗 **Visit:** [nazmhub.pages.dev](https://nazmhub.pages.dev)
